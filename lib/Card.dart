@@ -20,6 +20,10 @@ class CardScr extends StatelessWidget {
                   backgroundImage: AssetImage('images/brithdaycard.png'),
                 ),
               ),
+
+
+
+              
               SizedBox(
                 height: 20.0,
               ),
